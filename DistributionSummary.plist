@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UC Care.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5714535B11BB314A483A36691F9AF12DC5FFC7B5</string>
+				<key>dateExpires</key>
+				<string>16/01/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>UQ5JR692T3.com.urbanclap.care</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>UQ5JR692T3</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>UC Care.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cd68787c-79e3-4db7-8d77-2aa04ae406ea</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.urbanclap.care</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>UQ5JR692T3</string>
+				<key>name</key>
+				<string>URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

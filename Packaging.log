@@ -1,0 +1,374 @@
+2020-04-30 22:12:59 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fd388b8e920; archive(resolved)='<IDEArchive: 0x7fd3816a5970>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fd388b8e920; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fd388b93320; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd38ada5500; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd36ee34710; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd38a0a2820; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd38b100100; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd38a5e1280; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd38a3ae5b0; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd38b728fc0; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fd3892844d0; teamID='UQ5JR692T3', teamName='URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED', teamType='Company', username='abhijeet.rai@icloud.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fd38868b630; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='(null)'>
+	<IDEDistributionContext: 0x7fd3887f4530; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='(null)'>
+	<IDEDistributionContext: 0x7fd38a021930; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='<IDEDistributionMethodAdHoc: 0x7fd3da5f8f60>', team='(null)'>
+	<IDEDistributionContext: 0x7fd38c02f930; archive = '<IDEArchive: 0x7fd3816a5970>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fd388b8e920>
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionCopyItemStep
+2020-04-30 22:12:59 +0000  Running /usr/bin/ditto '-V' '/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app'
+2020-04-30 22:12:59 +0000  >>> Copying /Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app 
+2020-04-30 22:12:59 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-04-30 22:12:59 +0000  7847 bytes for ./_CodeSignature/CodeResources
+2020-04-30 22:12:59 +0000  copying file ./AppIcon60x60@2x.png ... 
+2020-04-30 22:12:59 +0000  3643 bytes for ./AppIcon60x60@2x.png
+2020-04-30 22:12:59 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-7Q7-bd-df5.nib/objects-13.0+.nib ... 
+2020-04-30 22:12:59 +0000  1780 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-7Q7-bd-df5.nib/objects-13.0+.nib
+copying file ./Base.lproj/Main.storyboardc/UINavigationController-7Q7-bd-df5.nib/runtime.nib ... 
+2020-04-30 22:12:59 +0000  1780 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-7Q7-bd-df5.nib/runtime.nib
+2020-04-30 22:12:59 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib ... 
+2020-04-30 22:12:59 +0000  3541 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib ... 
+2020-04-30 22:12:59 +0000  3543 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib
+2020-04-30 22:12:59 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-04-30 22:12:59 +0000  276 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-04-30 22:12:59 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2020-04-30 22:12:59 +0000  2453 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2020-04-30 22:12:59 +0000  2451 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2020-04-30 22:12:59 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2020-04-30 22:12:59 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+2020-04-30 22:12:59 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2020-04-30 22:12:59 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+2020-04-30 22:12:59 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-04-30 22:12:59 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-04-30 22:12:59 +0000  copying file ./UC Care ... 
+2020-04-30 22:12:59 +0000  262624 bytes for ./UC Care
+2020-04-30 22:12:59 +0000  copying file ./Assets.car ... 
+2020-04-30 22:12:59 +0000  231807 bytes for ./Assets.car
+2020-04-30 22:12:59 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2020-04-30 22:12:59 +0000  5439 bytes for ./AppIcon76x76@2x~ipad.png
+2020-04-30 22:12:59 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2020-04-30 22:12:59 +0000  679680 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2020-04-30 22:12:59 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2020-04-30 22:12:59 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2020-04-30 22:12:59 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+2020-04-30 22:12:59 +0000  4056896 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2020-04-30 22:12:59 +0000  450384 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftDarwin.dylib ... 
+2020-04-30 22:12:59 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+2020-04-30 22:12:59 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2020-04-30 22:12:59 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+2020-04-30 22:12:59 +0000  /usr/bin/ditto exited with 0
+2020-04-30 22:12:59 +0000  copying file ./embedded.mobileprovision ... 
+47009 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+1474 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-04-30 22:12:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd36eccc040; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd38a3405b0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38b9ea890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4aea40; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd38a3405b0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd38acb0030; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd3899b8330:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38cfc50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4aea40; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd3899b8330:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd36eccf6a0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd38999b700:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd39b7280a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4aea40; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd38999b700:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd389ad5660; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd3899b05e0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38af67510; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4aea40; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd3899b05e0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd3896e53c0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd38991af80:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd3bc4108a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd3ce2c6110; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd38991af80:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd3896ca960; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd3899a7510:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38bbf9490; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd3ce2c6110; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd3899a7510:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd3817bb600; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd38a60af90:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38a176c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd3ce2c6110; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd38a60af90:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionSymbolsStep
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionAppThinningStep
+2020-04-30 22:12:59 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionArchThinningStep
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCore.dylib'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDarwin.dylib'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDispatch.dylib'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftFoundation.dylib'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftObjectiveC.dylib'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-04-30 22:12:59 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2020-04-30 22:12:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/UC Care' '-verify_arch' 'arm64e'
+2020-04-30 22:12:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-04-30 22:12:59 +0000  Skipping architecture thinning for item "UC Care" because arch "arm64e" wasn't found
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionODRStep
+2020-04-30 22:12:59 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-04-30 22:12:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd36eccc040; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd38a3405b0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38b9ea890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4c9410; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd38a3405b0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd38acb0030; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd3899b8330:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38cfc50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a6eb530; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd3899b8330:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd36eccf6a0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd38999b700:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd39b7280a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a6eb530; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd38999b700:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd389ad5660; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd3899b05e0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38af67510; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a6eb530; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd3899b05e0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd3896e53c0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd38991af80:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd3bc4108a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a54b420; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd38991af80:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd3896ca960; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd3899a7510:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38bbf9490; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a54b420; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd3899a7510:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd3817bb600; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd38a60af90:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38a176c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a6eb530; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd38a60af90:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-04-30 22:12:59 +0000  Running /usr/bin/xattr '-crs' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app'
+2020-04-30 22:13:00 +0000  /usr/bin/xattr exited with 0
+2020-04-30 22:13:00 +0000  Processing step: IDEDistributionCodesignStep
+2020-04-30 22:13:00 +0000  Entitlements for <IDEDistributionItem: 0x7fd36eccc040; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd38a3405b0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38b9ea890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4c9410; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd38a3405b0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-04-30 22:13:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd36eccc040; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd38a3405b0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38b9ea890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a696ef0; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd38a3405b0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~uDwY2D
+2020-04-30 22:13:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '5714535B11BB314A483A36691F9AF12DC5FFC7B5' '--entitlements' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~uDwY2D' '--preserve-metadata=identifier,flags,runtime' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCore.dylib'
+2020-04-30 22:13:00 +0000  /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2020-04-30 22:13:00 +0000  /usr/bin/codesign exited with 0
+2020-04-30 22:13:00 +0000  Entitlements for <IDEDistributionItem: 0x7fd38acb0030; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd3899b8330:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38cfc50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4c9410; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd3899b8330:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-04-30 22:13:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd38acb0030; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd3899b8330:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38cfc50b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4aea40; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd3899b8330:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~HxVZ9o
+2020-04-30 22:13:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '5714535B11BB314A483A36691F9AF12DC5FFC7B5' '--entitlements' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~HxVZ9o' '--preserve-metadata=identifier,flags,runtime' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-04-30 22:13:00 +0000  /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2020-04-30 22:13:00 +0000  /usr/bin/codesign exited with 0
+2020-04-30 22:13:00 +0000  Entitlements for <IDEDistributionItem: 0x7fd36eccf6a0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd38999b700:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd39b7280a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4c9410; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd38999b700:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-04-30 22:13:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd36eccf6a0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd38999b700:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd39b7280a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4aea40; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd38999b700:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~WwCTrS
+2020-04-30 22:13:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '5714535B11BB314A483A36691F9AF12DC5FFC7B5' '--entitlements' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~WwCTrS' '--preserve-metadata=identifier,flags,runtime' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-04-30 22:13:00 +0000  /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2020-04-30 22:13:00 +0000  /usr/bin/codesign exited with 0
+2020-04-30 22:13:00 +0000  Entitlements for <IDEDistributionItem: 0x7fd389ad5660; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd3899b05e0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38af67510; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a696ef0; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd3899b05e0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-04-30 22:13:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd389ad5660; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd3899b05e0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38af67510; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a6bd580; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd3899b05e0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~NrhWxU
+2020-04-30 22:13:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '5714535B11BB314A483A36691F9AF12DC5FFC7B5' '--entitlements' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~NrhWxU' '--preserve-metadata=identifier,flags,runtime' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDarwin.dylib'
+2020-04-30 22:13:00 +0000  /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2020-04-30 22:13:00 +0000  /usr/bin/codesign exited with 0
+2020-04-30 22:13:00 +0000  Entitlements for <IDEDistributionItem: 0x7fd3896e53c0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd38991af80:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd3bc4108a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a696ef0; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd38991af80:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-04-30 22:13:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd3896e53c0; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd38991af80:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd3bc4108a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a6cbe40; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd38991af80:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~tUBDLw
+2020-04-30 22:13:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '5714535B11BB314A483A36691F9AF12DC5FFC7B5' '--entitlements' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~tUBDLw' '--preserve-metadata=identifier,flags,runtime' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDispatch.dylib'
+2020-04-30 22:13:00 +0000  /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2020-04-30 22:13:00 +0000  /usr/bin/codesign exited with 0
+2020-04-30 22:13:00 +0000  Entitlements for <IDEDistributionItem: 0x7fd3896ca960; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd3899a7510:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38bbf9490; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a54b420; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd3899a7510:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-04-30 22:13:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd3896ca960; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd3899a7510:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38bbf9490; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd3ce2c6110; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd3899a7510:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~Sn5V0J
+2020-04-30 22:13:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '5714535B11BB314A483A36691F9AF12DC5FFC7B5' '--entitlements' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~Sn5V0J' '--preserve-metadata=identifier,flags,runtime' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftFoundation.dylib'
+2020-04-30 22:13:00 +0000  /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2020-04-30 22:13:00 +0000  /usr/bin/codesign exited with 0
+2020-04-30 22:13:00 +0000  Entitlements for <IDEDistributionItem: 0x7fd3817bb600; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd38a60af90:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38a176c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38a54b420; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd38a60af90:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-04-30 22:13:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd3817bb600; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd38a60af90:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd38a176c80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd3ce2c6110; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='(null)', teamID='UQ5JR692T3', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd38a60af90:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~qBbKXo
+2020-04-30 22:13:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '5714535B11BB314A483A36691F9AF12DC5FFC7B5' '--entitlements' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~qBbKXo' '--preserve-metadata=identifier,flags,runtime' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftObjectiveC.dylib'
+2020-04-30 22:13:00 +0000  /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2020-04-30 22:13:00 +0000  /usr/bin/codesign exited with 0
+2020-04-30 22:13:00 +0000  Entitlements for <IDEDistributionItem: 0x7fd38a8c4590; bundleID='com.urbanclap.care', path='<DVTFilePath:0x7fd3895e8090:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd3889bba90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd388ad2890; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='{
+    "application-identifier" = "UQ5JR692T3.com.urbanclap.care";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = UQ5JR692T3;
+    "get-task-allow" = 1;
+}', teamID='UQ5JR692T3', identifier='com.urbanclap.care', executablePath='<DVTFilePath:0x7fd387ca4ea0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/UC Care'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "UQ5JR692T3.com.urbanclap.care";
+    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = UQ5JR692T3;
+    "get-task-allow" = 0;
+}
+2020-04-30 22:13:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd38a8c4590; bundleID='com.urbanclap.care', path='<DVTFilePath:0x7fd3895e8090:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd3889bba90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd38c4aea40; name='Apple Development: Abhijeet Rai (GYDYH8D9RL)', hash='7C10AFA4F3AD096F1B7E66D3DA2757B55B81BF28', serialNumber='3B54A04161E95AEE', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-13 09:28:09 +0000''>', entitlements='{
+    "application-identifier" = "UQ5JR692T3.com.urbanclap.care";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = UQ5JR692T3;
+    "get-task-allow" = 1;
+}', teamID='UQ5JR692T3', identifier='com.urbanclap.care', executablePath='<DVTFilePath:0x7fd387ca4ea0:'/Users/abhijeet/Library/Developer/Xcode/Archives/2020-05-01/UC Care 01-05-20, 3.27 AM.xcarchive/Products/Applications/UC Care.app/UC Care'>', hardenedRuntime='0'>'> to: /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~Alc8c9
+2020-04-30 22:13:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '5714535B11BB314A483A36691F9AF12DC5FFC7B5' '--entitlements' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/entitlements~~~Alc8c9' '--preserve-metadata=identifier,flags,runtime' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app'
+2020-04-30 22:13:01 +0000  /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root/Payload/UC Care.app: signed app bundle with Mach-O thin (arm64) [com.urbanclap.care]
+2020-04-30 22:13:01 +0000  /usr/bin/codesign exited with 0
+2020-04-30 22:13:01 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-04-30 22:13:01 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-04-30 22:13:01 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root' '/var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Packages/UC Care.ipa'
+2020-04-30 22:13:01 +0000  >>> Copying /var/folders/7h/tqxlmb2568q7jlw0hrx06_dh0000gp/T/XcodeDistPipeline.~~~IngfLS/Root 
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/_CodeSignature/CodeResources ... 
+2020-04-30 22:13:01 +0000  7847 bytes for ./Payload/UC Care.app/_CodeSignature/CodeResources
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/AppIcon60x60@2x.png ... 
+2020-04-30 22:13:01 +0000  3643 bytes for ./Payload/UC Care.app/AppIcon60x60@2x.png
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Base.lproj/Main.storyboardc/UINavigationController-7Q7-bd-df5.nib/objects-13.0+.nib ... 
+2020-04-30 22:13:01 +0000  1780 bytes for ./Payload/UC Care.app/Base.lproj/Main.storyboardc/UINavigationController-7Q7-bd-df5.nib/objects-13.0+.nib
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Base.lproj/Main.storyboardc/UINavigationController-7Q7-bd-df5.nib/runtime.nib ... 
+2020-04-30 22:13:01 +0000  1780 bytes for ./Payload/UC Care.app/Base.lproj/Main.storyboardc/UINavigationController-7Q7-bd-df5.nib/runtime.nib
+copying file ./Payload/UC Care.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib ... 
+2020-04-30 22:13:01 +0000  3541 bytes for ./Payload/UC Care.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib ... 
+2020-04-30 22:13:01 +0000  3543 bytes for ./Payload/UC Care.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2020-04-30 22:13:01 +0000  276 bytes for ./Payload/UC Care.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2020-04-30 22:13:01 +0000  2453 bytes for ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2020-04-30 22:13:01 +0000  2451 bytes for ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2020-04-30 22:13:01 +0000  896 bytes for ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+copying file ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2020-04-30 22:13:01 +0000  896 bytes for ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+copying file ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-04-30 22:13:01 +0000  258 bytes for ./Payload/UC Care.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/UC Care ... 
+2020-04-30 22:13:01 +0000  97552 bytes for ./Payload/UC Care.app/UC Care
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Assets.car ... 
+2020-04-30 22:13:01 +0000  231807 bytes for ./Payload/UC Care.app/Assets.car
+copying file ./Payload/UC Care.app/AppIcon76x76@2x~ipad.png ... 
+2020-04-30 22:13:01 +0000  5439 bytes for ./Payload/UC Care.app/AppIcon76x76@2x~ipad.png
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Frameworks/libswiftObjectiveC.dylib ... 
+2020-04-30 22:13:01 +0000  302672 bytes for ./Payload/UC Care.app/Frameworks/libswiftObjectiveC.dylib
+2020-04-30 22:13:01 +0000  copying file ./Payload/UC Care.app/Frameworks/libswiftCore.dylib ... 
+2020-04-30 22:13:01 +0000  16915072 bytes for ./Payload/UC Care.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/UC Care.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2020-04-30 22:13:01 +0000  646880 bytes for ./Payload/UC Care.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/UC Care.app/Frameworks/libswiftDispatch.dylib ... 
+2020-04-30 22:13:01 +0000  1018944 bytes for ./Payload/UC Care.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/UC Care.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2020-04-30 22:13:01 +0000  253824 bytes for ./Payload/UC Care.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/UC Care.app/Frameworks/libswiftDarwin.dylib ... 
+2020-04-30 22:13:01 +0000  369760 bytes for ./Payload/UC Care.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/UC Care.app/Frameworks/libswiftFoundation.dylib ... 
+2020-04-30 22:13:01 +0000  8479584 bytes for ./Payload/UC Care.app/Frameworks/libswiftFoundation.dylib
+copying file ./Payload/UC Care.app/embedded.mobileprovision ... 
+2020-04-30 22:13:01 +0000  21104 bytes for ./Payload/UC Care.app/embedded.mobileprovision
+copying file ./Payload/UC Care.app/Info.plist ... 
+2020-04-30 22:13:01 +0000  1474 bytes for ./Payload/UC Care.app/Info.plist
+copying file ./Payload/UC Care.app/PkgInfo ... 
+8 bytes for ./Payload/UC Care.app/PkgInfo
+2020-04-30 22:13:01 +0000  /usr/bin/ditto exited with 0
+2020-04-30 22:13:01 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-04-30 22:13:01 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-04-30 22:13:01 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-04-30 22:13:02 +0000  Processing step: IDEDistributionCreateManifestStep
